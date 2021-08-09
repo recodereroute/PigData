@@ -28,7 +28,7 @@
 
     - ERD
 
-        ![./img/1.jpg](./img/1.jpg)
+        ![ex1](./img/1.jpg)
 
         ![project%205ec15d1e06e4436493f72283d42747f7/2.jpg](project%205ec15d1e06e4436493f72283d42747f7/2.jpg)
 

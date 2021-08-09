@@ -28,11 +28,7 @@
 
     - ERD
 
-        <img src ="./img/1.jpg" title="ex1">
-
-        ![ex2](./img/2.jpg)
-
-        <img src="./img/3.jpg" width="100px" height="50px" title="ex3"></img>
+![erd.png](../img/erd.png)
 
     전구 안에 박스는 shift +enter 쳐야지 줄이 늘어납니다
 
@@ -340,13 +336,12 @@
 
 ---
 
-![project%205ec15d1e06e4436493f72283d42747f7/Untitled.png](project%205ec15d1e06e4436493f72283d42747f7/Untitled.png)
 
 웹 프로젝트 - 2 주
 
 css, jQuery, Ajax - 2주
 
-![project%205ec15d1e06e4436493f72283d42747f7/Untitled%201.png](project%205ec15d1e06e4436493f72283d42747f7/Untitled%201.png)
+![first_frame.png](../img/frame.png)
 
 저번에 그린 레이아웃 대충 잡아봤습니다.(라인은 레이아웃 구분을 위해 잡았습니다.)
 

@@ -28,11 +28,11 @@
 
     - ERD
 
-        ![ex1](./img/1.jpg)
+        <img src ="./img/1.jpg" title="ex1">
 
-        ![project%205ec15d1e06e4436493f72283d42747f7/2.jpg](project%205ec15d1e06e4436493f72283d42747f7/2.jpg)
+        ![ex2](./img/2.jpg)
 
-        ![project%205ec15d1e06e4436493f72283d42747f7/3.jpg](project%205ec15d1e06e4436493f72283d42747f7/3.jpg)
+        <img src="./img/3.jpg" width="100px" height="50px" title="ex3"></img>
 
     전구 안에 박스는 shift +enter 쳐야지 줄이 늘어납니다
 
